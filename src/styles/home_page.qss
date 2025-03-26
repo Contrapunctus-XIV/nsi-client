@@ -1,0 +1,17 @@
+QLabel#heading {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+QLabel#sub_heading {
+  font-size: 20px;
+}
+
+QLabel#author_heading {
+  font-size: 14px;
+}
+
+QPushButton {
+  width: 200%;
+  height: 20%;
+}

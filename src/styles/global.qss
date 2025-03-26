@@ -1,0 +1,7 @@
+QPushButton#submit {
+  background-color:rgba(255, 152, 18, 0.85);
+}
+
+QPushButton#cancel {
+    background-color: red;
+}

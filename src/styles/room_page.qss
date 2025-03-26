@@ -1,0 +1,21 @@
+QPushButton#cancel {
+    max-width: 150%;
+    width: 150%;
+}
+
+#heading {
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+QPushButton {
+  width: 200%;
+  max-width: 200%;
+  height: 20%;
+}
+
+.event {
+  font-size: italic;
+  opacity: 90%;
+}

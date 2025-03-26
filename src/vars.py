@@ -1,0 +1,6 @@
+CONFLICT = 409
+UNAUTHORIZED = 401
+NOT_FOUND = 404
+SERVER_DOMAIN = "wss://chat-server-21.deno.dev"
+STYLES_PATH = "src/styles"
+MAXIMUM_ALIAS_LENGTH = 50
