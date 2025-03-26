@@ -1,5 +1,5 @@
 # NSI Client
-## Un logiciel pour la diffusion anonyme, instantanée et éphémères de message et de fichiers
+## Un logiciel pour la diffusion anonyme, instantanée et éphémère de message et de fichiers
 
 ## Présentation
 **NSI** : *Nameless & Secured Interactions*
